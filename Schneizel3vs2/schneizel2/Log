@@ -1,0 +1,16 @@
+Nov 12, 2023 10:33:32 PM server.util.Util initLogger
+INFO: Logger initialized!
+Nov 12, 2023 10:33:32 PM server.util.Util writeToLog
+INFO: Exception in: Thread-0
+Nov 12, 2023 10:33:32 PM server.util.Util writeToLog
+WARNING: Exception: 
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at engine.Engine.iterativeDeepening(Engine.java:381)
+	at engine.Engine.run(Engine.java:292)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+

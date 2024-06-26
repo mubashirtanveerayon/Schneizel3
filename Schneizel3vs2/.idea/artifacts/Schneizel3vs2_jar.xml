@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Schneizel3vs2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Schneizel3vs2_jar</output-path>
+    <root id="archive" name="Schneizel3vs2.jar">
+      <element id="module-output" name="Schneizel3vs2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/schneizel2/Schneizel-v2-dev.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

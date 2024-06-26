@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Schneizel-v2-dev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/schneizel2/Schneizel-v2-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
